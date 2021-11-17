@@ -1,4 +1,4 @@
-# Colon cancer detection - MVP
+# Colon cancer detection - Project proposal
 
 Ignasi Sols
 
